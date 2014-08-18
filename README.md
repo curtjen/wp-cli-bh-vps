@@ -12,7 +12,7 @@ Ideal for developers and web masters.
 ### _Self Hosted (you host the file)__
 Run the following from the directory on your server you would like to run this from:
 ```
-git clone https://github.com/curtjen/wp-cli-bh-shared.git
+git clone https://github.com/curtjen/wp-cli-bh-vps.git
 ```
 
 ### __Lazy Way (GitHub hosted)__
